@@ -1,0 +1,26 @@
+MySQL:
+  test:
+    host: 10.218.223.184
+    port: 3306
+    user: root
+    password: root
+    database: boh-ims-cic-quality
+    charset:  utf8
+
+STORE:
+  test:
+    storeCode: SHA039
+
+LOGINUSER:
+  test:
+    user: RCwr
+    password: 1
+
+ValidityData:
+  test:
+    vegetableCode: 1329_1_D_D
+    coldStorageCode: 86110010
+    dryCode: 86110623
+    expiredDryCode: 86110383
+    expiredDryCode2: 86132846
+    newRetailingCode: 86110001
